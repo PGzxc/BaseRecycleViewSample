@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseRecycleViewSample</string>
+    <string name="img_name">图片</string>
+</resources>
